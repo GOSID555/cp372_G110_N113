@@ -65,3 +65,8 @@
 - In-Depth Analysis	19 พ.ค. 2569
 - Dashboard + Video	20–21 พ.ค. 2569
 - Submission 22 พ.ค. 2569
+---
+## Tableau
+- https://public.tableau.com/views/EDA_17479276200640/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+## Youtube
+- https://youtu.be/W4Ty6bxosRk
