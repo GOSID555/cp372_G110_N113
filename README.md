@@ -1,6 +1,8 @@
 # AI Impact on Digital Media Employment (2020–2025)
 ## Project Canvas
 ![110_113](https://github.com/user-attachments/assets/ad93098c-6dac-4dd3-b07f-86d3183ec239)
+![canvas](https://github.com/user-attachments/assets/06f8fb04-257f-4756-a4b4-c10b4848f1dd)
+
 
 ## Project Overview
 
