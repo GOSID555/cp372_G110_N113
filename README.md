@@ -1,4 +1,6 @@
 # AI Impact on Digital Media Employment (2020–2025)
+## Project Canvas
+![110_113](https://github.com/user-attachments/assets/ad93098c-6dac-4dd3-b07f-86d3183ec239)
 
 ## Project Overview
 
@@ -67,6 +69,9 @@
 - Submission 22 พ.ค. 2569
 ---
 ## Tableau
+![image](https://github.com/user-attachments/assets/8198559c-bd97-44ef-ab01-bc80f2dae07f)
+##
+
 - https://public.tableau.com/views/EDA_17479276200640/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 ## Youtube
 - https://youtu.be/W4Ty6bxosRk
