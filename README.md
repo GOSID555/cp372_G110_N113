@@ -73,5 +73,7 @@
 ##
 
 - https://public.tableau.com/views/EDA_17479276200640/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+## Colab
+- https://colab.research.google.com/drive/19tVFeqBmSLbhHE1O7FaOi6QQv4azvi3R?usp=chrome_ntp#scrollTo=bY8gROgfoMND
 ## Youtube
 - https://youtu.be/W4Ty6bxosRk
